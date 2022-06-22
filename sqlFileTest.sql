@@ -1,1 +1,1 @@
-SELECT * FROM accommodation;
+SELECT * FROM accommodation WHERE accomm_num = 5;
